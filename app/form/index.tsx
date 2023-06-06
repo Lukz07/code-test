@@ -32,8 +32,6 @@ const Form = () => {
       body: JSON.stringify(data)
     };
 
-    console.log("OPTIONS: ", options);
-
     const response = await fetch(endpoint, options);
 
     response.json().then((res) => {
