@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "pepe",
+      "lastName": "perez",
+      "email": "pepe@hotmail.com",
+      "password": "1234",
+      "phone": "+5491155725211"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "doe",
+      "email": "gutierrez.lukas@gmail.com",
+      "phone": "+5491155725211",
+      "password": "asdasd",
+      "id": 7
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "doe",
+      "email": "gutierrez.lukas@gmail.com",
+      "phone": "+5491155725211",
+      "password": "asdasd",
+      "id": 8
+    },
+    {
+      "firstName": "Jane2",
+      "lastName": "doe2",
+      "email": "gutierrez.lukas@gmail.com2222",
+      "phone": "+222222222222",
+      "password": "dqweqweqryetw",
+      "id": 9
+    }
+  ]
+}
